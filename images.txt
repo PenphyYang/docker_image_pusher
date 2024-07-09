@@ -7,6 +7,10 @@ flashcatcloud/categraf:latest
 mariadb:10.11
 memcached:1.6.18
 seafileltd/seafile-mc:11.0-latest
+memcached:1.6
+mariadb:10.5
+seafileltd/elasticsearch-with-ik:5.6.16
+cyida/seafile:8.0.17
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest

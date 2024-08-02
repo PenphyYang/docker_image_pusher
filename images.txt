@@ -1,4 +1,5 @@
-haha123/lepus
+maxiaolin3366/sqladvisor:latest
+#haha123/lepus
 #mysql:8
 #redis:6.2
 #prom/prometheus

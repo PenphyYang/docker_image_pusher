@@ -1,4 +1,7 @@
-maxiaolin3366/sqladvisor:latest
+budtmo/docker-android:emulator_11.0
+budtmo/docker-android:emulator_10.0
+budtmo/docker-android:emulator_9.0
+#maxiaolin3366/sqladvisor:latest
 #haha123/lepus
 #mysql:8
 #redis:6.2

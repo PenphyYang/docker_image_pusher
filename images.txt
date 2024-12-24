@@ -1,4 +1,5 @@
-mikesplain/openvas
+crackair/xrayr:latest
+#mikesplain/openvas
 #xiaomimi8/docker-awvs-14.7.220401065
 #0xgkd/awvs
 #secfa/docker-awvs

@@ -1,4 +1,5 @@
-python:3.9-alpine
+secfa/awvs
+#python:3.9-alpine
 #ollama/ollama
 #ghcr.nju.edu.cn/open-webui/open-webui:main
 #budtmo/docker-android:emulator_11.0

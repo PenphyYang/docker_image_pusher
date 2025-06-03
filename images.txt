@@ -1,4 +1,5 @@
-budtmo/docker-android-x86-8.1
+winehq/wine:latest
+#budtmo/docker-android-x86-8.1
 #tomcat:9.0-jdk8
 #dannicool/docker-wechatbot-webhook
 #crackair/xrayr:latest
